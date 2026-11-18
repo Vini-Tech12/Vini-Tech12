@@ -17,6 +17,8 @@ Estou usando o GitHub para compartilhar alguns dos projetos que desenvolvo duran
 
 Análise de dados de vendas utilizando Python e Pandas, com gráficos e análises sobre vendas, lucro, categorias, descontos e produtos.
 
+https://github.com/Vini-Tech12/Projeto_Analise_Vendas
+
 ## 🔗 Onde me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/vinícius-da-costa-87ab6a422/)
